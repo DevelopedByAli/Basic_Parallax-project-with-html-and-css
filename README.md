@@ -8,4 +8,6 @@
 
 ## Overview
 
-In this project it is required to create an asynchronous web app that uses Web API and user data to dynamically update the UI.
+This is a resposive, mobile-friendly parallax effect website created using only HTML5 and CSS3.
+
+
