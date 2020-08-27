@@ -1,1 +1,1 @@
-# Basic_Parallax-project-with-html-and-css
+# Basic_Parallax__project_with_HTML_and_CSS
