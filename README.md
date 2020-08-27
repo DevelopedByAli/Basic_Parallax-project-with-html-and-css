@@ -10,4 +10,8 @@
 
 This is a resposive, mobile-friendly parallax effect website created using only HTML5 and CSS3.
 
+## Technologies
+
+This website uses only HTML5 and CSS3.
+
 
