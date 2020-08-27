@@ -14,4 +14,8 @@ This is a resposive, mobile-friendly parallax effect website created using only 
 
 This website uses only HTML5 and CSS3.
 
+## Most Required Skills
+
+In order to create this website one has to possess a basic knowledge of HTML properties, CSS properties, media queries etc.
+
 
