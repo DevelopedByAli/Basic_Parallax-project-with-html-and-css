@@ -66,3 +66,7 @@ html {
     color: #fff;
     padding: 20px;
 }
+
+.ptext .border.trans {
+    background-color: transparent;
+}
