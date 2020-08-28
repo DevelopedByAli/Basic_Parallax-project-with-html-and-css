@@ -8,3 +8,14 @@ html {
     line-height: 1.8em;
     color: #666;
 }
+
+.pimg1,
+.pimg2,
+.pimg3 {
+    position: relative;
+    opacity: 0.80;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
