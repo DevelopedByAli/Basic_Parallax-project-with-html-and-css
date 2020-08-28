@@ -30,3 +30,8 @@ html {
     min-height: 400px;
 }
 
+.pimg3 {
+    background-image: url('./IMG/image3.jpg');
+    min-height: 500px;
+}
+
