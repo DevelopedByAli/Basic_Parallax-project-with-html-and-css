@@ -19,3 +19,8 @@ html {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
+
+.pimg1 {
+    background-image: url('./IMG/image2.jpg');
+    min-height: 100%;
+}
