@@ -35,3 +35,7 @@ html {
     min-height: 500px;
 }
 
+.section {
+    text-align: center;
+    padding: 40px 60px;
+}
